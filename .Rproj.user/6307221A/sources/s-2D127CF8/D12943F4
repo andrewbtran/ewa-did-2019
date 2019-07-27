@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564197083516.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D12943F4",
+    "lastKnownWriteTime" : 1564198169,
+    "last_content_update" : 1564198169162,
+    "path" : "~/Projects/ewa-did-2019/intermediate-excel/pivot-tables.Rmd",
+    "project_path" : "intermediate-excel/pivot-tables.Rmd",
+    "properties" : {
+        "cursorPosition" : "161,0",
+        "scrollLine" : "156",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

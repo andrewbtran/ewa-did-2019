@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564198342728.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7568C6DF",
+    "lastKnownWriteTime" : 1564199138,
+    "last_content_update" : 1564199138315,
+    "path" : "~/Projects/ewa-did-2019/intermediate-excel/formulas.Rmd",
+    "project_path" : "intermediate-excel/formulas.Rmd",
+    "properties" : {
+        "cursorPosition" : "259,0",
+        "scrollLine" : "251",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
