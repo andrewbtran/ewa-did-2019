@@ -256,10 +256,19 @@ More white people as a percent of the state would logically lead to the conclusi
 
 >>>Note: The best way to normalize these numbers is to take into account the population for each of these races listed in the spreadsheet in each state to determine the number of whites or blacks shot by police per capita. This process evens it out and brings forth real trends.
 
-### Extra questions
+### Your turn
 
-What would you put in the pivot table options to answer this question:
 
-Which states have the largest disparity (gap) for those who show signs of mental illness versus those who don’t?
-Put the question another way: If you’re an Asian person suffering from mental health issues, in which state are police most likely to shoot you if you confront them?
-(This is to get the raw totals before you copy and paste it into another sheet to do the math to find the percents)
+* Which two states have the largest disparity (gap) for those who show signs of mental illness versus those who don’t?
+
+* Which three states have the highest percent of women shot?
+
+* Which states had the most people fleeing by car?
+
+* What's the Average age of a black man shot in Missouri?
+
+* What's the oldest age for a white man shot in Wisconsin?
+
+* What's the Average age for a man shot while holding a toy gun?
+
+* If you’re an Asian person suffering from mental health issues, in which state are police most likely to shoot you if you confront them?
